@@ -96,7 +96,7 @@ NEXTAUTH_SECRET=your-secret-key
 ## Contributors
 
 - [zachary013](https://github.com/zachary013) 
-- [Sam-jab](https://github.com/Sam-jab) 
+- [Salahjb](https://github.com/Salahjb) 
 
 ## License
 
